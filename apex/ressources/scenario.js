@@ -4,7 +4,7 @@ Changelog
 	-	12/03/2021
 		-	mise à jour de add_header() pour choisir entre thead/tbody
 		-	Indentation du code
-*/
+*/   
 function export_excel(ID_REPORT, NM_PAGE, ID_APP, ID_SESSION) {
 
     try {
